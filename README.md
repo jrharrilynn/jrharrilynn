@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-### My name is Jason, I am a student at the University of Kentucky in the Computer Science program. I am fluent in C++, Java, C, and a little bit of python
+### B.S Computer Science from The University of Kentucky, 
+the powerlifting programmer
 
--🌱 I’m currently learning: learning swift and IOS development
+-🌱 Currently Looking for an Entry Level Position!
 
--📫 How to reach me: Email: jrha279@uky.edu
+-📫 How to reach me: Email: jrharrilynn@gmail.com
 
--😄 Pronouns: He/Him
+-😄 Pronouns: He/Him/strongest Programmer
 
 -⚡ Fun fact: I am a dual Sport athlete, im a competing powerlifter and a Bowler!
  
